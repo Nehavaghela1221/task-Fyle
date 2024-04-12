@@ -1,0 +1,43 @@
+.error-icon {
+    cursor: pointer;
+}
+.question-mark {
+    cursor: pointer;
+    font-size: 1rem;
+    margin-left: 5px;
+}
+.input-group-text {
+  
+    background-color: #fff; 
+   
+}
+.popover-content {
+    color: #fff;
+}
+
+.error-popover {
+    background-color: red;
+    border-color: red;
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 35% !important;
+  
+}
+.btn-primary,.btn-primary:hover {
+   
+    width: 100%;
+  background-color: #6559f5;
+       border-color: #6559f5;
+}
+/* model css  */
+.modal-content {
+    height: 281px;
+margin-top: 155px;}
+    #calculateTax ,#calculateTax:hover{
+        background-color: #6559f5;
+        border-color: #6559f5;    margin-right: 159px;
+    }
+    .modal-body {
+        
+        text-align: center;
+    }
